@@ -60,6 +60,7 @@
   font-weight: 700;
   color: hsl(223, 47%, 23%);
   height: 23px;
+  margin-bottom: 5px;
 }
 
 .icon_music {
@@ -75,7 +76,10 @@
 
 .btn_charge {
   font-size: 14px;
+  font-weight: 700;
   height: 23px;
+  margin-left: 40px;
+  color: hsl(245, 75%, 52%);
 }
 
 .btn_confirma_plano {
@@ -91,14 +95,17 @@
   margin: auto;
   margin-top: 35px;
   box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.257);
+  cursor: pointer;
 }
 
 .btn_cancel {
   color: hsl(224, 23%, 55%);
+  font-size: 14px;
   font-weight: 700;
   margin: auto;
   margin-top: 20px;
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
 }
