@@ -14,8 +14,8 @@
 }
 
 .container {
-  width: 380px;
-  height: 600px;
+  width: 340px;
+  height: 580px;
   background-color: #fff;
   border-radius: 17px;
   display: flex;
@@ -23,7 +23,7 @@
 }
 
 .illustracao {
-  width: 380px;
+  width: 340px;
   border-top-left-radius: 17px;
   border-top-right-radius: 17px;
 }
@@ -86,7 +86,7 @@
   font-weight: 700;
   color: hsl(225, 100%, 94%);
   font-size: 14px;
-  width: 304px;
+  width: 290px;
   height: 40px;
   background-color: hsl(245, 75%, 52%);
   border-radius: 10px;
